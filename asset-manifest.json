@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/game.git/static/css/main.6780dbbd.css",
+    "main.js": "/game.git/static/js/main.2084d108.js",
+    "index.html": "/game.git/index.html",
+    "main.6780dbbd.css.map": "/game.git/static/css/main.6780dbbd.css.map",
+    "main.2084d108.js.map": "/game.git/static/js/main.2084d108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6780dbbd.css",
+    "static/js/main.2084d108.js"
+  ]
+}
